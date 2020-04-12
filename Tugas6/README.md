@@ -11,10 +11,10 @@
 <br><br>
 
 <h2>Lakukan request dari Browser</h2>
-<h4>Hasil dari Browser</h4>
+<h3>Hasil dari Browser</h3>
 <img src="img/Browser.png">
-<h4>Hasil dari Developer Mode Browser</h4>
+<h3>Hasil dari Developer Mode Browser</h3>
 <img src="img/Browser2.png">
-<h4>Hasil dari Server</h4>
+<h3>Hasil dari Server</h3>
 <img src="img/Server-Browser.jpg">
 <br><br>
