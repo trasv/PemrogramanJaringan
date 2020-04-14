@@ -34,4 +34,4 @@
 
 
 <h2>Tabel Hasil</h2>
-<img src="img/tabel.png">
+<img src="img/table.png">
